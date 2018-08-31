@@ -6,7 +6,7 @@ My first repository on GitHub
 It is an app that changes the background color, the text color, and the text on the screen.
 
 ### App Walhttp://g.recordit.co/B4u4OlRzwu.gifk-ththoughough
-<img src="http://recordit.co/CQX3RUf4Xi" width=200><br>
+<img src="http://g.recordit.co/HL2xTgxNtx.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
